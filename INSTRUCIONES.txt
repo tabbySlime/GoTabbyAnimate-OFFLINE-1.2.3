@@ -20,7 +20,7 @@ octavo : espera y cuando termine se abrira chrouim
 
 
 eso fue todo si necesitas ayuda baja mas
--------------ayuda-----------
+-------------ayuda y preguntas-----------
 
 1 como lo abro si lo cierro?
 r: abre start wrapper y se abrira automaticamente
@@ -39,3 +39,19 @@ r: actualmente no pero lo haremos proximamente
 
 6 lo traduciran completo
 r: no sabemos sera dificil
+
+7 me pueden bannear?
+r: No porque es offline osea privado
+
+8 puedo subirlo a Yt
+r: Si 
+
+9 ay una manera de usarlo sin adobe flash
+r: NO porque goanimate utiliza adobe flash y el goanimate de ahora osea vyond utiliza html5
+
+10 puedo importar cosas
+r: si tiene que minizar gotabbyanimate en la parte de cmd escriben 2 y ya
+
+                     
+                     
+                                       copyright 2022  TabbyStudios .INC
